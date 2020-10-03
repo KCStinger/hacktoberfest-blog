@@ -2,9 +2,9 @@
 
 ## Share your knowledge
 
-Not all contributions to open source are code. Open source contributions can take the form of thought-leadership via blog posts, talks, etc.
+Not all contributions to open source are code. Open source contributions can take the form of thought-leadership via blog posts, interviews and talks among many forms.
 
-If you feel most comfortable contributing to open source through your writing, I challenge you to share your knowledge via the Hacktober Fest Blog Project.
+If you feel the most comfortable contributing to open source through your writing, then I challenge you to share your knowledge via the Hacktoberfest Blog Project.
 
 The Hacktober Fest Blog Project is a compilation of user contributed blog posts. Blog posts can be about anything: tool tips, productivity tips, tutorials, talk reviews, podcast recommendations. You can even contribute blog posts you've written for your personal blog or other publications.
 
@@ -28,7 +28,7 @@ There is a handy rake task you can use to auto generate the file for you. Just t
 
 **Step 3:** Write your post! You can use [Github flavored markdown](https://guides.github.com/features/mastering-markdown/).
 
-Please include your name and twitter / github (some way to identify you) in the [post frontmatter](https://jekyllrb.com/docs/frontmatter/). Example:
+Please include your name and social media link/ email in the [post frontmatter](https://jekyllrb.com/docs/frontmatter/). Example:
 
 ```
 layout: post
@@ -52,9 +52,9 @@ Once your PR is approved, repo owner (me!) will merge and deploy to Github Pages
 * Tech how-to tutorial (how to build a blog in Rails, how to create a to do list app in React, how to get started with PHP, etc)
 * A link to a tech talk you really liked and why
 * Lessons your learned from learning a new language / skill
-* Tips that help you be productive in tech
-* App or list of apps that help you in your job as a designer, developer, etc
+* Tips that helped / might help you to be productive in tech
+* App or list of apps that helped / might help you in your job as a designer, developer, etc
 * Open source projects you like and why
 * Tips for developers getting started in tech
 
-Any posts are welcome as long as they are constuctive, helpful, or teach the community something :)
+Any posts are welcome as long as they are constuctive, helpful and teach the community something. :)
